@@ -117,4 +117,19 @@ a {
     background-color: #E5E7EB;
     display: flex;
     flex-direction: column;
+    padding: 120px 450px;
+}
+
+.q-text {
+    font-size: 36px;
+    font-style:italic;
+    font-weight: 200;
+    color: #1F2937;
+    margin: auto;
+}
+
+.from {
+    font-weight: 500;
+    align-self: flex-end;
+    margin-top: 32px;
 }
